@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Merriweather;
+}
+body{
+  background-color: #262626;
+  color: white;
+  height: 120vh;
+  width: 99vw;
+}
+.DatosPersonales{
+  font-size: 20px;
+  margin-left: 33vw;
+}
+.conocimientos{
+    background-color: #2f2f2f;
+    color: white;
+    height: 60vh;
+}
+.HeaderCV{
+  background-color: #293940;
+  height: 20vh;
+  text-align: center;
+}
+h1{
+  margin-left: 33vw;
+  margin-right: 32vw;
+  font-size: 90px;
+}
+.DatosPersonales{
+  margin-top: 5vh;
+  margin-bottom: 5vh;
+}
+
+
+
+
+
+
+
